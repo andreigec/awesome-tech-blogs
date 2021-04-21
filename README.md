@@ -56,7 +56,7 @@
 | Engineering@Semantics3 - Medium	|	https://engineering.semantics3.com/feed |
 | Facebook Code	|	https://code.facebook.com/posts/rss |
 | Facebook Research	|	https://research.fb.com/feed/ |
-| fettblog.eu | TypeScript, JavaScript, Jamstack	|	https://fettblog.eu/feed.xml  |
+| fettblog.eu | https://fettblog.eu/feed.xml  |
 | forweb.dev	|	https://forweb.dev/en/blog/feed.xml |
 | foursquare	|	https://medium.com/feed/foursquare-direct/tagged/engineering  |
 | frenxi	|	https://frenxi.com/rss.xml  |
@@ -80,7 +80,7 @@
 | Kickstarter Engineering - Medium	|	https://kickstarter.engineering/feed  |
 | KintoHub - Medium	|	https://blog.kintohub.com/feed  |
 | Kukiel blog	|	https://blog.kukiel.dev/atom.xml  |
-| Kyle Galbraith | Blog	|	https://blog.kylegalbraith.com/rss.xml  |
+| Kyle Galbraith | https://blog.kylegalbraith.com/rss.xml  |
 | Last Week in AWS	|	https://www.lastweekinaws.com/feed/ |
 | Learnk8s	|	https://learnk8s.io/rss.xml |
 | LINQ to Fail	|	https://www.aaron-powell.com/index.xml  |
