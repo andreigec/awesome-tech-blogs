@@ -165,7 +165,7 @@
 | WeWork Technology - Medium	|	https://engineering.wework.com/feed |
 | Winston Fan's Blog	|	https://www.askwinston.xyz/rss.xml  |
 | Wokwi Blog	|	https://blog.wokwi.com/rss/ |
-| www.bitlog.com	|	https://www.bitlog.com/feed/  |
+| bitlog	|	https://www.bitlog.com/feed/  |
 | Yahoo Engineering	|	https://yahooeng.tumblr.com/rss |
 | Yelp Engineering and Product Blog	|	https://engineeringblog.yelp.com/feed.xml |
 | Zain Shares	|	https://blogs.roarcoder.dev/feed.xml  |
