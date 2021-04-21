@@ -1,3 +1,7 @@
+# Awesome Tech Blogs
+
+> A curated list of awesome tech blogs.
+> 
 | Name | Feed Url |
 | --- | ----------- |
 | 2ality – JavaScript and more	|	https://feeds.feedburner.com/2ality |
